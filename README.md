@@ -7,15 +7,21 @@ Sou João Vitor Pires Dias, desenvolvedor mobile especializado em Flutter/Dart. 
 - 💼 Buscando oportunidades em desenvolvimento mobile multiplataforma.
 - 🎓 Futuro estudante de mestrado.
 
-### Tecnologias e Ferramentas
+### Tecnologias e Ferramentas:
 - 🚀 Flutter, Dart
 - ⚡ APIs REST, Bloc/Cubit, MobX
 - 💻 VSCode, Git, GitHub
 
-### Minhas Contribuições no GitHub
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=joaovitorpd&theme=radical)
-<br>
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=joaovitorpd&theme=radical)
+### Minhas Contribuições no GitHub:
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaovitorpd&show_icons=true&theme=radical" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorpd&layout=compact&theme=radical" />
+</div>
+
+<div align="center">
+  <img width="100%" height="195px" src="https://ghchart.rshah.org/joaovitorpd" />
+</div>div
+
 
 
 ### Contato
