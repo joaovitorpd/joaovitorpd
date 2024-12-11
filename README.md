@@ -25,4 +25,4 @@ Sou João Vitor Pires Dias, desenvolvedor mobile especializado em Flutter/Dart. 
 
 
 ### Contato
-📧 E-mail: [joaovitorpd@gmail.com](mailto:joaovitorpd@gmail.com)
+📧 [Entre em contato comigo](mailto:joaovitorpd@gmail.com)
