@@ -20,7 +20,7 @@ Sou João Vitor Pires Dias, desenvolvedor mobile especializado em Flutter/Dart. 
 
 <div align="center">
   <img width="100%" height="195px" src="https://ghchart.rshah.org/joaovitorpd" />
-</div>div
+</div>
 
 
 
