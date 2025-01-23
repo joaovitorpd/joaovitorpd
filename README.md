@@ -3,7 +3,7 @@
 Sou João Vitor Pires Dias, desenvolvedor mobile especializado em Flutter/Dart. 🚀
 
 ### Sobre mim
-- 🌱 Atualmente aprendendo mais sobre **testes automatizados** e **estruturas em arvore** em Flutter.
+- 🌱 Atualmente aprendendo mais sobre **testes automatizados**, **estruturas em arvore** e **recursão** em Dart/Flutter.
 - 💼 Buscando oportunidades em desenvolvimento mobile multiplataforma.
 - 🎓 Futuro estudante de mestrado.
 
