@@ -13,7 +13,7 @@ Sou João Vitor Pires Dias, desenvolvedor mobile especializado em Flutter/Dart. 
 ### Tecnologias e Ferramentas
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 
-![API REST](https://img.shields.io/badge/API%20REST-008000?style=for-the-badge&logo=fastapi&logoColor=white) ![Bloc](https://img.shields.io/badge/Bloc-2496ED?style=for-the-badge&logo=flutter&logoColor=white) ![Cubit](https://img.shields.io/badge/Cubit-087E8B?style=for-the-badge&logo=flutter&logoColor=white) ![MobX](https://img.shields.io/badge/MobX-E4405F?style=for-the-badge&logo=mobx&logoColor=white)
+![API REST](https://img.shields.io/badge/API%20REST-008000?style=for-the-badge) ![Bloc](https://img.shields.io/badge/Bloc-2496ED?style=for-the-badge&logo=flutter&logoColor=white) ![Cubit](https://img.shields.io/badge/Cubit-087E8B?style=for-the-badge&logo=flutter&logoColor=white) ![MobX](https://img.shields.io/badge/MobX-E4405F?style=for-the-badge&logo=mobx&logoColor=white)
 
 ### Minhas Contribuições no GitHub:
 <div align="center">
