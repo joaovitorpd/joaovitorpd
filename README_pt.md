@@ -1,27 +1,27 @@
-# Hello! 👋 Welcome to my profile
+# Olá! 👋 Bem-vindo ao meu perfil
 
-I'm João Vitor Pires Dias, a mobile developer specialized in Flutter/Dart. 🚀  
-For the **Portuguese version**, click [here](README_pt.md).  
-
----
-
-## 📌 About Me  
-
-- 🌱 Currently learning more about **automated testing**, **tree structures**, **recursion**, and **local persistence with SQL and NoSQL** in Flutter/Dart.  
-- 💼 I'm a freelancer and open to opportunities in cross-platform mobile development.  
-- 🎓 Future master's degree student.  
-- 🔜 My next steps include learning **Swift** to develop native iOS applications.  
+Sou João Vitor Pires Dias, desenvolvedor mobile especializado em Flutter/Dart. 🚀  
+Para a **versão em inglês**, clique [aqui](README.md).  
 
 ---
 
-## 🔗 Connect with Me  
+## 📌 Sobre mim  
+
+- 🌱 Atualmente aprendendo mais sobre **testes automatizados**, **estruturas em árvore**, **recursão**, e **persistência local com SQL e NoSQL** no Flutter/Dart.  
+- 💼 Sou freelancer e aberto a oportunidades em desenvolvimento mobile multiplataforma.  
+- 🎓 Futuro estudante de mestrado.  
+- 🔜 Meus próximos passos incluem aprender **Swift** para desenvolver aplicativos nativos iOS.  
+
+---
+
+## 🔗 Conecte-se comigo  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovitorpd/)  
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@joaovitorpdias/)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaovitorpd)  
 
 ---
 
-## 🛠️ Technologies & Tools  
+## 🛠️ Tecnologias e Ferramentas  
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)  
@@ -37,7 +37,7 @@ For the **Portuguese version**, click [here](README_pt.md).
 
 ---
 
-## 📊 My GitHub Contributions  
+## 📊 Minhas Contribuições no GitHub  
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaovitorpd&show_icons=true&theme=radical" />
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorpd&layout=compact&theme=radical" />
