@@ -13,7 +13,6 @@ Para a **versão em inglês**, clique [aqui](README.md).
 - 🍎 Aprendendo **SwiftUI** e muito empolgado com isso!  
 - 💼 Sou freelancer e aberto a oportunidades em desenvolvimento mobile multiplataforma.  
 - 🎓 Cursando Pós-graduação em Engenharia de Software.
-- 🔜 Pretendo aprender **Kotlin** para ampliar minhas ferramentas no desenvolvimento mobile específico para a plataforma Android.
 
 ---
 

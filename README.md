@@ -11,7 +11,6 @@ For the **Portuguese version**, click [here](README_pt.md).
 - 🍎 Learning SwiftUI and very excited about it!
 - 💼 I am a freelancer and open to opportunities in cross-platform mobile development.
 - 🎓 Currently pursuing a postgraduate degree in Software Engineering.
-- 🔜 I plan to learn Kotlin to expand my toolset for mobile development specifically for the Android platform.
 
 ---
 
